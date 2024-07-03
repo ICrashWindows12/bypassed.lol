@@ -1,0 +1,13 @@
+{
+  "name": "bypassed.lol",
+  "version": "0.0.1",
+  "description": "Ever wanted to play games in your own app with html support, now you can, visit the vast library of games, you will never get bored",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@electron/packager": "^18.3.3",
+    "electron": "^31.1.0"
+  }
+}
