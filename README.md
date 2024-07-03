@@ -1,4 +1,1 @@
-# bypassed.lol
-# bypassed.lol
-# bypassed.lol
-# bypassed.lol
+# Bypassed.lol setup macOS
